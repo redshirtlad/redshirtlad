@@ -1,5 +1,6 @@
-[![MasterHead](https://paulvanderlaken.com/wp-content/uploads/2017/08/data-science-skills-network1-e1417010633616.jpg?w=900&h=249&crop=1)
-<h3 align="center">NLP Enthuisiast(My model would have spotted the spelling mistake).Learning with a learning rate of 1e-10 🐢</h3>
+![MasterHead]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fsanthosh-b-8387ab78&psig=AOvVaw3CKziAKRheMAhLGSZrQNaK&ust=1734265199373000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCU2Lyfp4oDFQAAAAAdAAAAABAE](https://paulvanderlaken.com/wp-content/uploads/2017/08/data-science-skills-network1-e1417010633616.jpg?w=900&h=249&crop=1)](https://paulvanderlaken.com/wp-content/uploads/2017/08/data-science-skills-network1-e1417010633616.jpg?w=900&h=249&crop=1))
+<h1 align="center">Kaustubh : NLP Enthuisiast(My model would have spotted the spelling mistake)</h1>
+<h3 align="center">Learning with a learning rate of 1e-10 🐢</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redshirtlad&label=Profile%20views&color=0e75b6&style=flat" alt="redshirtlad" /> </p>
 
