@@ -9,6 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 -  💬 Ask me about **Statistics**
+-  👨‍💻 Find my early open-source contributions on my old GitHub account at [twitter](twitter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
