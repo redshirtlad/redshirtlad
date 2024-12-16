@@ -3,7 +3,7 @@
 <h1 align="center">NLP Enthuisiast(My model would have spotted the spelling mistake)</h1>
 <h3 align="center">Learning with a learning rate of 1e-10 🐢</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redshirtlad&label=Profile%20views&color=0e75b6&style=flat" alt="redshirtlad" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/redshirtlad" target="blank"><img src="https://img.shields.io/twitter/follow/redshirtlad?logo=twitter&style=for-the-badge" alt="redshirtlad" /></a> </p>
 
