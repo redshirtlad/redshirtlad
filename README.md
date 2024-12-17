@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 -  💬 Ask me about **Statistics**
--  👨‍💻 Find my early open-source contributions on my old GitHub account at twitter
+-  👨‍💻 Find my early open-source contributions on my old GitHub account available at twitter
 -  ⚡ Fun fact **I version my work as 'project', 'project1.1', 'project1.2' and so on, rather than committing incremental changes directly to GitHub**
 
 <h3 align="left">Connect with me:</h3>
