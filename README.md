@@ -1,6 +1,6 @@
 ![MasterHead](https://paulvanderlaken.com/wp-content/uploads/2017/08/data-science-skills-network1-e1417010633616.jpg?w=900&h=249&crop=1)
 <h1 align="center">Kaustubh Sahu </h1>
-<h1 align="center">NLP Enthuisiast(My model would have spotted the spelling mistake)</h1>
+<h2 align="center">NLP Enthuisiast(My model would have spotted the spelling mistake)</h2>
 <h3 align="center">Learning with a learning rate of 1e-10 🐢</h3>
 
 
