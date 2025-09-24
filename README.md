@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/redshirtlad" target="blank"><img src="https://img.shields.io/twitter/follow/redshirtlad?logo=twitter&style=for-the-badge" alt="redshirtlad" /></a> </p>
+
 
 - 🌱 I’m currently learning **Deep Learning**
 -  💬 Ask me about **Statistics**
