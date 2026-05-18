@@ -1,13 +1,10 @@
-![MasterHead](https://paulvanderlaken.com/wp-content/uploads/2017/08/data-science-skills-network1-e1417010633616.jpg?w=900&h=249&crop=1)
+
 <h1 align="center">Kaustubh Sahu </h1>
-<h1 align="center">NLP Enthuisiast</h1>
-<h3 align="center">(My model would have spotted the spelling mistake)🙄</h3>
+
 
 <h2 align="center">Learning with a learning rate of 1e-10 🐢</h2>
 
-- 🌱 I'm currently learning **Deep Learning**
--  💬 Ask me about **Statistics**
--  👨‍💻 Find my early open-source contributions on my old GitHub account available at twitter
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
